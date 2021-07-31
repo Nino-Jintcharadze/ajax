@@ -1,0 +1,20 @@
+.hdr-wraper {
+    display: flex;
+    justify-content: space-around;
+}
+.nav-ul {
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav-li {
+    margin: 10px;
+}
+
+.burger {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    font-size: 30px;
+    display: none;
+}
